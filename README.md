@@ -1,4 +1,5 @@
 # vuedongsan
+간단한 Vue js를 학습하기 위한 예제입니다.
 
 ## Project setup
 ```
