@@ -4,7 +4,6 @@ Vue js를 학습하기 위한 부동산 매물 정보를 제공하주는 웹앱�
 - 컨포넌트 설계
 (~ 4/23 마무리)
 
-https://github.com/Minsoo-Shin/vuedongsan.git
 
 ## Project setup
 ```
